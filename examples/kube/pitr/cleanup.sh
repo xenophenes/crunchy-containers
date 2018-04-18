@@ -18,7 +18,7 @@ echo_info "Cleaning up.."
 
 ${CCP_CLI?} delete pod restore-pitr
 ${CCP_CLI?} delete service restore-pitr
-sudo CCP_STORAGE_PATH=$CCP_STORAGE_PATH rm -rf $CCP_STORAGE_PATH/restore-pitr
+cleanup_dir "restore-pitr"
 
 ${CCP_CLI?} delete service pitr
 ${CCP_CLI?} delete pod pitr
@@ -29,5 +29,5 @@ if [ -z "$CCP_STORAGE_CLASS" ]; then
   ${CCP_CLI?} delete pv pitr-pgdata pitr-pgwal backup-pitr-pgdata restore-pitr-pgdata recover-pv
 fi
 
-sudo CCP_STORAGE_PATH=$CCP_STORAGE_PATH rm -rf $CCP_STORAGE_PATH/WAL/pitr
-sudo CCP_STORAGE_PATH=$CCP_STORAGE_PATH rm -rf $CCP_STORAGE_PATH/pitr
+cleanup_dir "WAL/pitr"
+cleanup_dir "pitr"

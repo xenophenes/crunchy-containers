@@ -22,3 +22,5 @@ if [ -z "$CCP_STORAGE_CLASS" ]; then
     ${CCP_CLI?} delete pv primary-pgdata
 fi
 $CCPROOT/examples/waitforterm.sh primary ${CCP_CLI?}
+
+cleanup_dir "primary"

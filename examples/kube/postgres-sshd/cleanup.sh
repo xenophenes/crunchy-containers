@@ -30,5 +30,7 @@ fi
 
 $CCPROOT/examples/waitforterm.sh postgres-sshd ${CCP_CLI?}
 rm -rf ${DIR?}/keys
-
-sudo CCP_STORAGE_PATH=$CCP_STORAGE_PATH rm -rf $CCP_STORAGE_PATH/archive $CCP_STORAGE_PATH/backup
+cleanup_dir "postgres-sshd"
+cleanup_dir "archive"
+cleanup_dir "backup"
+cleanup_file "db-stanza-create.log"

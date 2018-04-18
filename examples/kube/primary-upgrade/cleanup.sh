@@ -21,3 +21,5 @@ ${CCP_CLI?} delete pvc primary-upgrade-pgdata
 if [ -z "$CCP_STORAGE_CLASS" ]; then
   ${CCP_CLI?} delete pv primary-upgrade-pgdata
 fi
+
+cleanup_dir "primary-upgrade"

@@ -25,3 +25,5 @@ fi
 ${CCP_CLI?} delete configmap custom-config-pgconf
 
 $CCPROOT/examples/waitforterm.sh custom-config ${CCP_CLI?}
+
+cleanup_dir "custom-config"

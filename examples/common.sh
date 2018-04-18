@@ -57,3 +57,15 @@ function create_storage {
         echo_info "Creating the example components.."
     fi
 }
+
+function cleanup_dir {
+    if [[ -d "${CCP_STORAGE_PATH?}/$1" ]]; then
+        sudo rm -rf ${CCP_STORAGE_PATH?}/$1
+    fi
+}
+
+function cleanup_file {
+    if [[ -f "${CCP_STORAGE_PATH?}/$1" ]]; then
+        sudo rm -rf ${CCP_STORAGE_PATH?}/$1
+    fi
+}

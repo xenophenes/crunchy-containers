@@ -16,8 +16,6 @@
 source ${CCPROOT}/examples/common.sh
 echo_info "Cleaning up.."
 
-CONFDIR=$CCP_STORAGE_PATH/custom-config-ssl-pgconf
-
 ${CCP_CLI?} delete service custom-config-ssl
 ${CCP_CLI?} delete pod custom-config-ssl
 ${CCP_CLI?} delete pvc custom-config-ssl-pgconf
@@ -25,6 +23,6 @@ if [ -z "$CCP_STORAGE_CLASS" ]; then
   ${CCP_CLI?} delete pv custom-config-ssl-pgconf
 fi
 
-sudo CONFDIR=$CONFDIR rm -rf $CONFDIR
+cleanup_dir "custom-config-ssl-pgconf"
 
 $CCPROOT/examples/waitforterm.sh custom-config-ssl ${CCP_CLI?}

@@ -33,3 +33,5 @@ if [ -z "$CCP_STORAGE_CLASS" ]; then
   ${CCP_CLI?} delete pv replica-deployment-pgwal replica-deployment-pgbackrest replica-deployment-pgdata
   ${CCP_CLI?} delete pv replica2-deployment-pgwal replica2-deployment-pgbackrest replica2-deployment-pgdata
 fi
+
+cleanup_dir "primary-deployment"
