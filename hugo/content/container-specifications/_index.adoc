@@ -14,7 +14,7 @@ are described in further detail within their respective pages.
 
 The containers and their relationships to the overall architecture are depicted below:
 
-image::../containers.png[containers]
+image::../../containers.png[containers]
 
 == Containers
 
@@ -737,7 +737,7 @@ https://www.pgadmin.org/
 pgadmin4 provides a web user interface to PostgreSQL databases.  A
 sample screenshot is below:
 
-image::../pgadmin4-screenshot.png["pgadmin screenshot",align="center",scaledwidth="80%"]
+image::../../pgadmin4-screenshot.png["pgadmin screenshot",align="center",scaledwidth="80%"]
 
 
 === Environment Variables

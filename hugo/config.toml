@@ -1,8 +1,8 @@
-baseURL = "https://crunchydata.github.io/crunchy-containers/"
+baseURL = "https://xenophenes.github.io/crunchy-containers/"
 #baseURL= "/"
 
 languageCode = "en-us"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "current"
 title = "Crunchy Data Container Suite Documentation"
 theme = "docdock"
 #themesdir = "themes/"
@@ -11,23 +11,25 @@ pygmentsStyle = "monokailight"
 publishDir = "../docs"
 canonifyurls = true
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
+defaultContentLanguage = "current"
+defaultContentLanguageInSubdir= true
+enableMissingTranslationPlaceholders = true
 
+[Languages]
+[Languages.current]
+title = "Crunchy Data Container Suite Documentation"
+weight = 1
+languageName = "current"
 
-# [Languages]
-# [Languages.en]
-# title = "Crunchy Data Container Suite Documentation"
-# weight = 1
-# languageName = "English"
-
-
+[Languages.v2.0.0]
+title = "Crunchy Data Container Suite Documentation"
+weight = 2
+languageName = "v2.0.0"
 
 [params]
 editURL = "https://github.com/CrunchyData/crunchy-containers/edit/master/hugo/content/"
 showVisitedLinks = false # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
+themeStyle = "flex" # "original" or "flex" # default "flex"
 themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableHomeIcon = false # default is false
@@ -46,12 +48,6 @@ name = "<i class='fa fa-github'></i> <label>Github repo</label>"
 identifier = "ds"
 url = "https://github.com/CrunchyData/crunchy-containers"
 weight = 10
-
-[[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Kubernetes Documentation</label>"
-identifier = "kubedoc"
-url = "https://kubernetes.io/docs/"
-weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-file'></i> <label>License</label>"

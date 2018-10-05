@@ -19,7 +19,7 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-mjQPRAh2Y9A0sPdZzipNfPO7PT4g06mk0uZs15DbL/vsNCRGx1uRzWVzls9MJCoy2yRNjaMmEVFKJDpCui00mA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-df973073d880f28fbbae0263fb1ef62b.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-pL8rFufy0wKsP6bGmBrKSDU1OzH1/daDq/mII42aJUoOy74HZJOkR1iLPLQ4xcN/9ZOojXk8iDVwn4oOqQdPOw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-d7b6d7503c9433c6665e23a38783f079.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-Pqv5U8YdJD9zAcXXbBwemgh20q7IJaqiTaC0PweqvRVcfvz3ZnrYGAJaXqAOfniKzOh3AOdktQtCxL6jl6KrTw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-673bdae34018f4577d245d948a978d2a.css" />
   
   
   
@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>crunchydatadotcom/favicon.ico at master · CrunchyData/crunchydatadotcom</title>
+  <title>crunchydatadotcom/double_ring_circle_white.svg at master · CrunchyData/crunchydatadotcom</title>
     <meta name="description" content="Home of the code that powers the Crunchy Data website - CrunchyData/crunchydatadotcom">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/8248870?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="CrunchyData/crunchydatadotcom" /><meta property="og:url" content="https://github.com/CrunchyData/crunchydatadotcom" /><meta property="og:description" content="Home of the code that powers the Crunchy Data website - CrunchyData/crunchydatadotcom" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY4NTY4OTMxOmFjMDFjNDEzMGZhY2JkMTIzYTgyOWFkOWEyNzNlNWJlMmZiOWVmNmE0YjNlZGQ3MjA0MWE3ZDE0ODE1MDM5OWQ=--a4155d634b4f858e53114bb7d8bb904289334f6a">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY4NTY4OTMxOjU5NjZlMTVjZmZhNDQ1YWIxZTU2Y2MxNDllMjc2ZGZhNjRmNDhmMmU2YWI0YzgwOGVkYzIyYjRjYjdmNDViMDY=--a3d6800ca264f1b1f26042592073385041567535">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F223:88DD:96771A1:D9FF01F:5BAD0098" data-pjax-transient>
+  <meta name="request-id" content="EF91:88DD:8F1E359:CEAB286:5BABF6FD" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F223:88DD:96771A1:D9FF01F:5BAD0098" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="8406707" /><meta name="octolytics-actor-login" content="xenophenes" /><meta name="octolytics-actor-hash" content="9a8532ee975605bf441b20f52ea996326eeaf7d7ca95bb19de153a56c3ebb4c1" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EF91:88DD:8F1E359:CEAB286:5BABF6FD" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="8406707" /><meta name="octolytics-actor-login" content="xenophenes" /><meta name="octolytics-actor-hash" content="9a8532ee975605bf441b20f52ea996326eeaf7d7ca95bb19de153a56c3ebb4c1" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,23 +70,23 @@
     <meta name="user-login" content="xenophenes">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="Y2Q0NWE2ZWE3ZDk0NjM0MWQxMjA0NjQxZjNiMTVlMWFkN2ExMTgzY2UyMmU5NjcyOTFjMjNjNGY0N2NkNGI5OXx7InJlbW90ZV9hZGRyZXNzIjoiNzIuMjE0LjI5LjI0MyIsInJlcXVlc3RfaWQiOiJGMjIzOjg4REQ6OTY3NzFBMTpEOUZGMDFGOjVCQUQwMDk4IiwidGltZXN0YW1wIjoxNTM4MDY0NTQxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="YmQ0ODhiODlkNTIwZGYwYWFiYTdmZDViMjc2MzBhZTVhODIwOTU2ZGEzYWJiYjVhNjFlYWRkODJhOGZmYTEwNnx7InJlbW90ZV9hZGRyZXNzIjoiNzIuMjE0LjI5LjI0MyIsInJlcXVlc3RfaWQiOiJFRjkxOjg4REQ6OEYxRTM1OTpDRUFCMjg2OjVCQUJGNkZEIiwidGltZXN0YW1wIjoxNTM3OTk2NTQ4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_RETARGETING,QUOTE_MARKDOWN,COLLAPSE_REPEATED_COMMENTS">
 
   <meta name="html-safe-nonce" content="74a5f02437c283f6685a07ce013c7fdfbf9a9455">
 
-  <meta http-equiv="x-pjax-version" content="cbe9d130a190eaf075b51a237a94a9cd">
+  <meta http-equiv="x-pjax-version" content="0d44be24b2286593d50bbb654bb305df">
   
 
-      <link href="https://github.com/CrunchyData/crunchydatadotcom/commits/master.atom?token=AIBGs7oZR1glwmVuj4CEmKGWAwrab6dbks65ukEtwA%3D%3D" rel="alternate" title="Recent Commits to crunchydatadotcom:master" type="application/atom+xml">
+      <link href="https://github.com/CrunchyData/crunchydatadotcom/commits/master.atom?token=AIBGs-ecLruiNqJ2D76ELPAxykQGbdooks65uTeTwA%3D%3D" rel="alternate" title="Recent Commits to crunchydatadotcom:master" type="application/atom+xml">
 
   <meta name="go-import" content="github.com/CrunchyData/crunchydatadotcom git https://github.com/CrunchyData/crunchydatadotcom.git">
 
   <meta name="octolytics-dimension-user_id" content="8248870" /><meta name="octolytics-dimension-user_login" content="CrunchyData" /><meta name="octolytics-dimension-repository_id" content="136195506" /><meta name="octolytics-dimension-repository_nwo" content="CrunchyData/crunchydatadotcom" /><meta name="octolytics-dimension-repository_public" content="false" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="136195506" /><meta name="octolytics-dimension-repository_network_root_nwo" content="CrunchyData/crunchydatadotcom" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/CrunchyData/crunchydatadotcom/blob/master/static/favicon.ico" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/CrunchyData/crunchydatadotcom/blob/master/static/img/double_ring_circle_white.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -155,7 +155,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=C2D31LjRTLg0t+FBaAVN//vRYhyXaAzqoqOiTA/0nebBDBjx0oXQxWsLkdn0ZdSkeT2+9LkQGwNpywRuCM1VRA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=du7GjAjnG4LgJ06ufYA8nqLTXyMAHQJcf+NTOu5sKtG8gimpYrOH/7+bPjbh4KXFID+Dyy5lFbW0i/UY6VXicw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -305,7 +305,7 @@
           <li><a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a></li>
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="p1+GJPTHOplo6Yl83oWJmO8p19Vj9AedEzntwXFigFQwPN3Z95XMEwHhyPLvstm8qNfVDSFQK0SYt2VcsfI88Q==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0vzbPJuTfEDzFMKq8IZvnKfR9qiay7BpHJ36OI6DxHpFn4DBmMGKypocgyTBsT+44C/0cNhvnLCXE3KlThN43w==" />
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -318,7 +318,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="h/DCTOe2oz0YUe4DLitROxKO1YVKk4IC4AlfiWb/3iAQk5mx5ORVt3FZr40fHAEfVXDXXQg3rttrh9cUpm9ihQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="31jAIVIKrkBGkw04DJrlo28LXlRruW4ukZo6/2HZkANIO5vcUVhYyi+bTLY9rbWHKPVcjCkdQvcaFLJioUkspg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -359,7 +359,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1X2pHcCI9htbnhCqWEN9EJoyPw2dPBDis9G0f9ZxzoTfXY++ckrDKBWYtESavO1wjkq4VsH2uy+Ne26tzfeFZQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="136195506" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mQeFwwuYiVVuF0qWplotB3IcyrjL3viLsviQwDqgRUSTJ6NguVq8ZiAR7nhkpb1nZmRN45cUU0aMUkoSISYOpQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="136195506" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -422,7 +422,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CrunchyData/crunchydatadotcom/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LkzqwHNffyX9AaS+sx57hELqHSnhuqj5R8DhJQzFAGUhOlbdktvQMWCm5E4lnzvu4ADQ3xJagG5JRWMCiJ0MNA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/CrunchyData/crunchydatadotcom/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="C0m4xzwd8vtjZu2QI+tQ/p8CGhqV6dTZp6m8XnpOu6UEPwTa3Zld7/7BrWC1ahCUPejX7GYJ/E6pLD55/ha39A==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -437,7 +437,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/CrunchyData/crunchydatadotcom/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DMcU6TsSmURh186xnkKuKyHsaL5LDccfn9Lqugn64tPFfwFejyo/FwHWfVGPlghMnElvbU17gjvUp7IxJb36Fg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/CrunchyData/crunchydatadotcom/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GBrffbag4LyOJ4d765q1f58zFibsD6TmqX505Oz88KDRosrKAphG7+4mNJv6ThMYIpYR9ep54cLiCyxvwLvoZQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -552,9 +552,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CrunchyData/crunchydatadotcom/blob/5b4db7982022afcd844e5083f126fe7c4b95ece4/static/favicon.ico">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/CrunchyData/crunchydatadotcom/blob/5b4db7982022afcd844e5083f126fe7c4b95ece4/static/img/double_ring_circle_white.svg">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:e3b6229cf64d15e16bc0493a53e097b4 -->
+  <!-- blob contrib key: blob_contributors:v21:392b9dd229be249b0c60d6671d2d7fa1 -->
 
   
 
@@ -598,7 +598,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/CrunchyData/crunchydatadotcom/blob/develop/static/favicon.ico"
+               href="/CrunchyData/crunchydatadotcom/blob/develop/static/img/double_ring_circle_white.svg"
                data-name="develop"
                data-skip-pjax="true"
                rel="nofollow">
@@ -608,7 +608,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/CrunchyData/crunchydatadotcom/blob/master/static/favicon.ico"
+               href="/CrunchyData/crunchydatadotcom/blob/master/static/img/double_ring_circle_white.svg"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -627,7 +627,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/CrunchyData/crunchydatadotcom/tree/4.0/static/favicon.ico"
+              href="/CrunchyData/crunchydatadotcom/tree/4.0/static/img/double_ring_circle_white.svg"
               data-name="4.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -657,67 +657,51 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/CrunchyData/crunchydatadotcom"><span>crunchydatadotcom</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/CrunchyData/crunchydatadotcom/tree/master/static"><span>static</span></a></span><span class="separator">/</span><strong class="final-path">favicon.ico</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/CrunchyData/crunchydatadotcom"><span>crunchydatadotcom</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/CrunchyData/crunchydatadotcom/tree/master/static"><span>static</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/CrunchyData/crunchydatadotcom/tree/master/static/img"><span>img</span></a></span><span class="separator">/</span><strong class="final-path">double_ring_circle_white.svg</strong>
     </div>
   </div>
 
 
-  
-  <div class="commit-tease">
-      <span class="float-right">
-        <a class="commit-tease-sha" href="/CrunchyData/crunchydatadotcom/commit/964ad5d98ca613a88a171089f9cec9d5c171dde0" data-pjax>
-          964ad5d
-        </a>
-        <relative-time datetime="2018-07-07T18:34:55Z">Jul 7, 2018</relative-time>
-      </span>
-      <div>
-        <a rel="contributor" data-skip-pjax="true" data-hovercard-user-id="1694" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jkatz"><img class="avatar" src="https://avatars2.githubusercontent.com/u/1694?s=40&amp;v=4" width="20" height="20" alt="@jkatz" /></a>
-        <a class="user-mention" rel="contributor" data-hovercard-user-id="1694" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jkatz">jkatz</a>
-          <a data-pjax="true" title="Update to meta tags" class="message" href="/CrunchyData/crunchydatadotcom/commit/964ad5d98ca613a88a171089f9cec9d5c171dde0">Update to meta tags</a>
-      </div>
+  <include-fragment src="/CrunchyData/crunchydatadotcom/contributors/master/static/img/double_ring_circle_white.svg" class="commit-tease commit-loader">
+    <div>
+      Fetching contributors&hellip;
+    </div>
 
     <div class="commit-tease-contributors">
-      
-<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-  <summary class="btn-link" aria-haspopup="dialog"  >
-    
-    <span><strong>1</strong> contributor</span>
-  </summary>
-  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
-    <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-      </button>
-      <h3 class="Box-title">Users who have contributed to this file</h3>
+        <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
     </div>
-    
-        <ul class="list-style-none overflow-auto">
-            <li class="Box-row">
-              <a class="link-gray-dark no-underline" href="/jkatz">
-                <img class="avatar mr-2" alt="" src="https://avatars2.githubusercontent.com/u/1694?s=40&amp;v=4" width="20" height="20" />
-                jkatz
-</a>            </li>
-        </ul>
-
-  </details-dialog>
-</details>
-      
-    </div>
-  </div>
-
+</include-fragment>
 
 
   <div class="file">
     <div class="file-header">
   <div class="file-actions">
+      <div class="BtnGroup">
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
+          href="/CrunchyData/crunchydatadotcom/blob/master/static/img/double_ring_circle_white.svg?short_path=0ae67b1" aria-label="Display the source blob">
+          <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+        </a>
+        <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
+          href="/CrunchyData/crunchydatadotcom/blob/master/static/img/double_ring_circle_white.svg" aria-label="Display the rendered blob">
+          <svg class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
+        </a>
+      </div>
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CrunchyData/crunchydatadotcom/raw/master/static/favicon.ico">Download</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CrunchyData/crunchydatadotcom/commits/master/static/favicon.ico">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/CrunchyData/crunchydatadotcom/raw/master/static/img/double_ring_circle_white.svg">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/CrunchyData/crunchydatadotcom/blame/master/static/img/double_ring_circle_white.svg">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/CrunchyData/crunchydatadotcom/commits/master/static/img/double_ring_circle_white.svg">History</a>
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CrunchyData/crunchydatadotcom/delete/master/static/favicon.ico" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MwejqYMTtVXDdWSpf0i4WK6XXrdJQ3ivP+OlDt6un0inmgKnovOhyAL9QBlD6EisJsDAA3JS6EEf5D7anXf5lw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CrunchyData/crunchydatadotcom/edit/master/static/img/double_ring_circle_white.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CR6sM7G2hN6zOlkzMJG9a8mYrKv6+ZJyRVe4BG3qJH6DAO27EaZP2cI+7EcNYp9jx5TEPX1NtSsQUxtTuZdLdA==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CrunchyData/crunchydatadotcom/delete/master/static/img/double_ring_circle_white.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mkY1khC16RgOT5otcAKudnusqe4yasOtbBx0Iw95xNLCyFyqXxCKiJYqKLM2Qb9tuETcxGen0ruJN8Xq7ITsqA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -725,16 +709,29 @@
 </form>  </div>
 
   <div class="file-info">
-    4.19 KB
+      5 lines (4 sloc)
+      <span class="file-info-divider"></span>
+    312 Bytes
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-text">
-      <div class="image">
-          <a href="/CrunchyData/crunchydatadotcom/blob/master/static/favicon.ico?raw=true">View Raw</a>
-      </div>
+  <div itemprop="text" class="blob-wrapper data type-svg">
+      
+  <div class="render-wrapper">
+    <div class="render-container is-render-pending js-render-target "
+      data-identity="3964ae9c-2cd2-4302-a9d0-1d14c83ddd43"
+      data-host="https://render.githubusercontent.com"
+      data-type="svg">
+      <img class="octospinner" alt="" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/CrunchyData/crunchydatadotcom/blob/master/static/img/double_ring_circle_white.svg">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe class="render-viewer" src="https://render.githubusercontent.com/view/svg?commit=5b4db7982022afcd844e5083f126fe7c4b95ece4&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f4372756e636879446174612f6372756e63687964617461646f74636f6d2f356234646237393832303232616663643834346535303833663132366665376334623935656365342f7374617469632f696d672f646f75626c655f72696e675f636972636c655f77686974652e7376673f746f6b656e3d4149424773335f6c5949795a513531354d774158435f383431356e4e437250356b733562715f635f7741253344253344&amp;nwo=CrunchyData%2Fcrunchydatadotcom&amp;path=static%2Fimg%2Fdouble_ring_circle_white.svg&amp;repository_id=136195506&amp;repository_type=Repository#3964ae9c-2cd2-4302-a9d0-1d14c83ddd43" sandbox="allow-scripts allow-same-origin allow-top-navigation ">Viewer requires iframe.</iframe>
+    </div>
+  </div>
+
   </div>
 
   </div>
@@ -762,7 +759,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.27590s from unicorn-6c45c5b997-c46g2">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.22424s from unicorn-6bc5f687d-25sw8">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -802,7 +799,7 @@
     <script crossorigin="anonymous" integrity="sha512-mal0oz3cFcr4OqIE2eo7Pmax6HtpOKvQfO4vqg9JuCb+iaf4H3KUP9Aryp4oP5mSMgEYUOwgBOAL6MTFaeCZ3w==" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-3c69a4d015c4208bce7a9d5e4e15a914.js"></script>
     <script crossorigin="anonymous" integrity="sha512-j7P2Pw3104HznNqyNm7WuCF8Lstcf/sPX5meP6e5RFF177kmi6SAbkZ52A3ttKj0cRHLRrUbk7C1w1xtwh52zA==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-c163002918ede72971a36e0025f67a4a.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-7k40iaLRlOCjvlJvNu5pTzMtYG4xCuy4lZcMbjkoKrLYKvyNSG1tfCPupwlJP8lZJn6sVdb67wwW79gypXfdlw==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-0545f38d79a28ad665cd5fe102ce1289.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-Z5fd0dj51rMxKrjedM+9gyg1X4RM1fM8hivZbHa//bBehMC/OqElWU0NR3uedNn22O1P5Qc7ZZrQIXjijKykkA==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-d5b765c4b8bba3ff3117a438286f8445.js"></script>
     
     
     
